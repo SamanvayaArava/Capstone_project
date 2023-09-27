@@ -1,6 +1,7 @@
 # Capstone_project
 Targeted Problem: 
 Building a machine learning model to recognize Australian Sign Language (Auslan) signs.
+
 Justification: Educational and Assistive Technology, Such a model can be integrated into educational tools, communication devices, and assistive technologies to empower individuals who use Auslan as their primary means of communication.
 
 Research question
