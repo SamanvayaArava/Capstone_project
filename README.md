@@ -6,7 +6,7 @@ Justification: Educational and Assistive Technology, Such a model can be integra
 
 Research question:  Can we create a machine learning model for dataset that correctly decodes Auslan signs, and if so, how can we improve it?
 
-Dataset: Australian Sign Language signs - UCI Machine Learning Repository
+Dataset: Australian Sign Language signs - UCI Machine Learning Repository.
 This dataset comprises 6,650 samples, representing 95 distinct Auslan signs. 
 
 Motivation: Developing a machine learning model for Auslan sign recognition involves complex sequence classification, which is a challenging problem in computer vision. The potential applications of such a model in assistive technology, education, and communication systems are significant.
